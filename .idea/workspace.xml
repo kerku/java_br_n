@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7de7782d-af8c-4f21-8c77-a9b39801c5d3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sandbox/out/production/classes/MyFirstProgram.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/sandbox/src/main/java/by/stqa/pft/sandbox/MyFirstProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/sandbox/src/main/java/by/stqa/pft/sandbox/MyFirstProgram.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/sandbox/.gradle/" />
@@ -45,8 +44,16 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sandbox/src/main/java/by/stqa/pft/sandbox/MyFirstProgram.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+            <state relative-caret-position="142">
+              <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+              <folding>
+                <element signature="e#206#207#0" expanded="true" />
+                <element signature="e#268#269#0" expanded="true" />
+                <element signature="e#342#343#0" expanded="true" />
+                <element signature="e#369#370#0" expanded="true" />
+                <element signature="e#546#547#0" expanded="true" />
+                <element signature="e#574#575#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -98,7 +105,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552142816899" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552150191255" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/sandbox/src/main/java" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/sandbox/build.gradle" />
     <property name="project.structure.last.edited" value="Artifacts" />
@@ -162,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1552140571415</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="reviewing basic math operations">
+      <created>1552142898405</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1552142898405</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -180,11 +194,11 @@
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Build" weight="0.3045326" />
-      <window_info anchor="bottom" id="Messages" weight="0.3286119" />
+      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -202,13 +216,22 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New push" />
     <MESSAGE value="format changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="format changes" />
+    <MESSAGE value="reviewing basic math operations" />
+    <option name="LAST_COMMIT_MESSAGE" value="reviewing basic math operations" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/sandbox/src/main/java/by/stqa/pft/sandbox/MyFirstProgram.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+        <state relative-caret-position="142">
+          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+          <folding>
+            <element signature="e#206#207#0" expanded="true" />
+            <element signature="e#268#269#0" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
+            <element signature="e#369#370#0" expanded="true" />
+            <element signature="e#546#547#0" expanded="true" />
+            <element signature="e#574#575#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
